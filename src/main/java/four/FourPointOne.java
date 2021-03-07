@@ -18,10 +18,10 @@ public class FourPointOne {
         c1.setLeft(c11);
         c1.setRight(c12);
 
-        c11.setLeft(c21);
-        c11.setRight(c22);
+        c2.setLeft(c21);
+        c2.setRight(c22);
 
-        t.print();
+        t.printBFS();
 
         BalanceChecker<Integer> checker = new BalanceChecker<>();
 

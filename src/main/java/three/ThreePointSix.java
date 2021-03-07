@@ -1,7 +1,5 @@
 package three;
 
-import sun.jvm.hotspot.runtime.StackFrameStream;
-
 import java.util.Stack;
 
 public class ThreePointSix {
